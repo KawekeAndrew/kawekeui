@@ -4,7 +4,9 @@ import Image from 'next/image'
 
 export default function Home() {
   return (  
-
+<html lang="en">
+<head/>  
+<body>
 <div className="topContainer">
 <div className="mainContainer">
 
@@ -527,7 +529,8 @@ height={40}
        
        </div>
 
-
+</body>
+</html>
 
 );
 
